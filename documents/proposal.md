@@ -1,10 +1,12 @@
-# HTML5 Certificate Program - Final Course Project Proposal
+# Proposal: Final Course Project
 
 Text
 
-## H2
+Proposed API to use:
 
-Bullets
+[Seattle.gov Open Data Portal](https://data.seattle.gov/)
+
+## Project Objectives
 
 * Chrome (v.72)
 * Safari (v.12)
